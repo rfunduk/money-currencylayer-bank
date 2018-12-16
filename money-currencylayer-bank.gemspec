@@ -21,7 +21,6 @@ Gem::Specification.new do |s|
   s.rubygems_version = '1.3.7'
   s.add_dependency 'money', '~> 6.7'
   s.add_dependency 'monetize', '~> 1.4'
-  s.add_dependency 'json', '>= 1.8'
   s.add_development_dependency 'minitest', '~> 5.8'
   s.add_development_dependency 'minitest-line', '~> 0.6'
   s.add_development_dependency 'rr', '~> 1.1'
